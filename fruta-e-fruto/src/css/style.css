@@ -1,0 +1,51 @@
+.fonte-titulo {
+  font-family: 'Pacifico', cursive;
+}
+
+#cor-titulo {
+  color: darkred;
+}
+
+.imagem-carrossel {
+  object-fit:cover; object-position: 0 80%;
+  height: 400px;
+}
+
+.card-imagem {
+  width: 18rem;
+  object-fit:cover;
+  object-position: 0 60%;
+}
+
+.card-imagem-top {
+  height:200px;
+  object-fit:cover;
+  object-position: 0 60%;
+}
+
+.thumb-redondo {
+  border-radius:50%; 
+  width:250px; 
+  height:250px; 
+  object-fit:cover; 
+  object-position: 0 60%; 
+}
+
+.icones {
+  font-size: 2rem;
+}
+
+.texto-cor-darkred {
+  color: darkred;
+}
+
+.borda-cor-darkred {
+  border-color: darkred;
+}
+
+.botao-receita {
+  background-color: darkred;
+  color: white;
+}
+
+
